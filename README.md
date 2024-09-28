@@ -1,0 +1,1 @@
+# Reduction-Active-du-Bruit-par-Transformee-de-Fourier
