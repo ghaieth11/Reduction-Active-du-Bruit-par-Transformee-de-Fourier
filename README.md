@@ -51,9 +51,8 @@ Below is an example of the frequency spectrum before and after applying the nois
 - **Combined Signal Spectrum**: The result of adding the captured signal and the inverse signal, which shows the reduced amplitude due to destructive interference.
 
 ## Author
+ALOUI Ghaieth, POLYTECH Nice Sophia - Université Côte d'Azur 
 
-**[Your Name]**  
-*Engineering student*  
 This project was part of my **TIPE**, a personal research project aimed at deepening my understanding of signal processing, noise reduction, and the Fourier Transform. It reflects my passion for applying theoretical knowledge to real-world problems, specifically in the domain of urban noise pollution.
 
 Feel free to reach out for questions or collaboration opportunities:
